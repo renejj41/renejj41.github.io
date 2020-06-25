@@ -11,3 +11,9 @@ wears a giant yellow sombrero.
 * Mexican
 * Yellow Sombrero
 * Funny accent
+
+As Speedy Gonzales famously said
+> Arriba, arriba!
+> Andale, andale!
+
+
